@@ -1,0 +1,95 @@
+
+body{
+  margin: 0;
+  text-align: center;
+  font-family: 'Yatra One', cursive;
+  font-size: 30px;
+}
+
+h1{
+  width: 40%;
+  font-size: 100px;
+  margin: 0 auto 0 auto;
+  font-family: 'Shadows Into Light', cursive;
+  font-weight: bold;
+}
+
+h2{
+  font-family: 'Nunito', sans-serif;
+}
+
+.pro{
+  text-decoration: underline;
+}
+
+.programmer{
+  font-size: 1em;
+  margin: 0 auto 0 auto;
+  color: #EE6983;
+}
+
+h3{
+  font-family: 'Sacramento', cursive;
+}
+
+.skill-row{
+  width: 50%;
+  margin: 100px auto 100px auto;
+  text-align: left;
+  line-height: 2;
+
+}
+
+.top-container{
+  background-color: #FFF5E4;
+  position: relative;
+  padding: 100px;
+
+}
+
+.profile{
+  background-color: #FFC4C4;
+}
+
+.skills{
+  background-color: #EE6983;
+  color: #EEEE;
+}
+
+
+.picture1{
+ max-width: 25%;
+ height: auto;
+ float: left;
+ margin-right: 50px;
+}
+
+
+.picture2{
+  max-width: 25%;
+ height: auto;
+ float: right;
+ margin-left: 50px;
+}
+
+
+
+
+.bottom-cloud{
+  position: absolute;
+  left: 300;
+}
+
+
+.top-cloud{
+  position: relative;
+  left: 200px;
+}
+
+.middle-container{
+  background-color: #FFF5E4;
+}
+
+.bottom-container{
+  background-color: #FFF5E4;
+}
